@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 MAINTAINER Frédéric T <xmedias@easycom.digital>
 
 ADD ./bashrc.root /root/.bashrc
